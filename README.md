@@ -10,12 +10,9 @@ This app allows users to paste a YouTube URL, choose the video quality or audio-
 - 🎵 **Download audio only** (original format)
 - 📂 **Choose your download location**
 - 📶 **Real-time progress bar**
-- 🪶 Lightweight and easy to use interface
+-  ~ Lightweight and easy to use interface
 - 🚀 Powered by `yt-dlp` (a fast and actively maintained fork of youtube-dl)
 
-## 🖥️ Screenshots
-
-*(You can add screenshots here later to showcase the app UI)*
 
 ## 🛠️ Requirements
 
